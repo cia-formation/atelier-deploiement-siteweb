@@ -37,13 +37,11 @@ Voici la structure du projet que nous allons déployer :
 
 ![Formulaire de contact](readme-assets/contact-form-page.jpeg)
 
----
 
 ### 📋 Liste des Contacts
 
 ![Liste des contacts](readme-assets/contact-list-page.jpeg)
 
----
 
 ## 🛠️ Prérequis
 
@@ -71,16 +69,13 @@ Pour mettre ce projet en ligne :
 4. Mettez à jour les paramètres de connexion à la base de données dans `admin/index.php`.
 5. Testez le site en ligne via votre nom de domaine.
 
----
 
-## ✍️ Atelier réalisé par
+## Atelier réalisé par
 
 **Centre CIA Formation**  
 📞 +237 692 17 50 99 / 680 55 07 75  
 🌐 [www.ciaformation.com](http://www.ciaformation.com)  
 📍 Yaoundé, Cameroun  
-
----
 
 ## 📜 Licence
 
